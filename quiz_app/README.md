@@ -22,7 +22,7 @@ A **responsive Quiz App** built with **React**. Users can answer multiple-choice
 
 ## Demo
 
-
+https://funny-licorice-92c71b.netlify.app/
 ---
 
 ## Installation
